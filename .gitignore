@@ -1,7 +1,7 @@
 # ignore all json
 *.json
 *.log
-
+*.lock
 backend/.eslintrc.js
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
